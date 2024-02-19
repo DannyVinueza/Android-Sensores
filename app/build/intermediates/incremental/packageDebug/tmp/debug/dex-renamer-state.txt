@@ -1,0 +1,4 @@
+#Sun Feb 18 19:55:31 COT 2024
+base.0=D\:\\2023B\\Aplicaciones Moviles\\Laboratorios\\SensoresAndroid\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
