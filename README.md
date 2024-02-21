@@ -1,17 +1,18 @@
 # MetalBall :metal:
----
+
 <div align="center">
   <img src ="art/anim.gif"/>
 <div>
-
+  
+---  
 # Integrantes
----
+
 - Nestor Chumania
 - José Galarza
 - Danny Vinueza
 
-
-# Capturas
+---
+# Capturas funcionamiento de la Aplicación en un Celular
 
 
 
